@@ -1,5 +1,5 @@
 # LazyList
-Lazy implementation of List<T> that will automatically instantiate  missing elements.
+Lazy implementation of List&lt;T&gt; that will automatically instantiate  missing elements.
 
 ##How to use
 

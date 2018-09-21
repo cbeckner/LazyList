@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-/// This is a great little utility class.  The best.
+/// This is a really great little utility class.  The best.
 namespace XYZ.Utilities
 {
     public class LazyList<T> : IList<T>, ICollection<T>, IEnumerable<T> where T : new()
